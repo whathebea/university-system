@@ -1,4 +1,4 @@
-package dev.beagracia.msaddress.msaddress;
+package dev.beagracia.msaddress;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
